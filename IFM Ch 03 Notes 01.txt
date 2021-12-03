@@ -1,0 +1,10 @@
+Cash and Carry: 
+  Short sell a forward
+  Buy the underlying stock
+
+Reverse Cash-and-Carry:
+  Buy a forward
+  Sell the underlying stock
+  
+Forward Premium = the ratio of forward price to spot price
+
