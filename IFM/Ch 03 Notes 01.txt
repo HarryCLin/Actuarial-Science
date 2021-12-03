@@ -8,3 +8,4 @@ Reverse Cash-and-Carry:
   
 Forward Premium = the ratio of forward price to spot price
 
+test
